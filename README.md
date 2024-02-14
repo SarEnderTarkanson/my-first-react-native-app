@@ -4,4 +4,4 @@ This is a React Native Weather App.
 
 My hands-on experience.
 
-This is a test project.
+This is a project for my personal development in React Native.
